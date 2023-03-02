@@ -15,4 +15,3 @@ To use this contract, simply deploy it to the Ethereum network and interact with
 
 Contributions and feedback are welcome! If you find any bugs or issues with the contract, please open an issue or submit a pull request.```
 
-Feel free to customize this description to fit your specific smart contract and use case. Make sure to provide clear and concise information about the purpose and features of the contract, as well as instructions for deployment and usage. You may also want to include any relevant links or resources, such as documentation or example code, to help users get started with your contract.
