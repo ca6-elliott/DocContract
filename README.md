@@ -1,7 +1,7 @@
 # DocContract
 Secure, decentralized document storage on Ethereum. Upload, manage, and access documents with hashing and encryption. Easy integration with existing workflows.  
 
-Document Registry Smart Contract
+# Document Registry Smart Contract
 
 This Solidity smart contract provides a secure and decentralized way to store and manage documents on the Ethereum blockchain. The contract allows users to upload and store their documents, which are then hashed and recorded on the blockchain. Once uploaded, the documents cannot be deleted or modified, ensuring their integrity and authenticity.
 
